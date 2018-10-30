@@ -1,7 +1,7 @@
 def hello_t
-do |name|
-  if name.starts_with?("T")
-    puts "hi, #{name}"
+i = 0 
+  while i < array.length 
+    i = i + 1
   end
 end
 
